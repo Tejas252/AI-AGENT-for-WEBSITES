@@ -1,0 +1,1 @@
+export {createEmbedding} from './gemini/index';
